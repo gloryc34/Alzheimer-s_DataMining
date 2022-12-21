@@ -1,1 +1,1 @@
-# Alzheimer-s_DataMining
+# Alzheimer's Data Mining
